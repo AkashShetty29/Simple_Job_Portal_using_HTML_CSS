@@ -1,0 +1,9 @@
+.container{
+    background-color: rgb(101, 182, 222);
+}
+
+.heading{
+    background-color: rgb(3, 4, 65);
+    color: aliceblue;
+    padding: 30px;
+}
